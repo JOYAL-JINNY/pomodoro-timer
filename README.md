@@ -1,3 +1,3 @@
 # pomodoro-timer
-THIS IS WORKING BASED ON POMODORO TECHNIQUE.
-IT WILL SET THE STUDY SESSION WITH  DURATION OF 25 MIN
+This working based on pomodoro techniuque
+It will set study session with duration of 25 minutes
